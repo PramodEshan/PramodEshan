@@ -1,4 +1,4 @@
-<h1 align="left">Hi, PRAMDO ESHAN</h1>
+<h1 align="left">Welcome to my profile</h1>
 <h3 align="left">| Electronic Enthusiastic | DIY | </h3>
 
 <h3 align="left">Connect with me:</h3>
