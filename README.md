@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Pramod Eshan</h1>
-<h3 align="center">| Electronic Enthusiastic |</h3>
+<h1 align="left">Hi, PRAMDO ESHAN</h1>
+<h3 align="left">| Electronic Enthusiastic | DIY | </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
