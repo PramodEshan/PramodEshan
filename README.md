@@ -1,5 +1,4 @@
 <h1 align="left">Welcome to my profile</h1>
-<h3 align="left">| Electronic Enthusiastic | DIY | </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pramod-eshan-hettigoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod-eshan-hettigoda" height="30" width="40" /></a>
